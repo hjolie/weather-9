@@ -1,0 +1,276 @@
+[
+    {
+        "city": "基隆市",
+        "MinT": {
+            "0": {
+                "date": "2024-07-16",
+                "week": "星期二",
+                "day": "28",
+                "night": "28"
+            },
+            "1": {
+                "date": "2024-07-17",
+                "week": "星期三",
+                "day": "28",
+                "night": "27"
+            },
+            "2": {
+                "date": "2024-07-18",
+                "week": "星期四",
+                "day": "28",
+                "night": "27"
+            },
+            "3": {
+                "date": "2024-07-19",
+                "week": "星期五",
+                "day": "27",
+                "night": "27"
+            },
+            "4": {
+                "date": "2024-07-20",
+                "week": "星期六",
+                "day": "28",
+                "night": "28"
+            },
+            "5": {
+                "date": "2024-07-21",
+                "week": "星期日",
+                "day": "28",
+                "night": "27"
+            },
+            "6": {
+                "date": "2024-07-22",
+                "week": "星期一",
+                "day": "27",
+                "night": "27"
+            }
+        },
+        "MaxT": {
+            "0": {
+                "date": "2024-07-16",
+                "week": "星期二",
+                "day": "35",
+                "night": "32"
+            },
+            "1": {
+                "date": "2024-07-17",
+                "week": "星期三",
+                "day": "35",
+                "night": "32"
+            },
+            "2": {
+                "date": "2024-07-18",
+                "week": "星期四",
+                "day": "34",
+                "night": "31"
+            },
+            "3": {
+                "date": "2024-07-19",
+                "week": "星期五",
+                "day": "34",
+                "night": "31"
+            },
+            "4": {
+                "date": "2024-07-20",
+                "week": "星期六",
+                "day": "34",
+                "night": "31"
+            },
+            "5": {
+                "date": "2024-07-21",
+                "week": "星期日",
+                "day": "33",
+                "night": "30"
+            },
+            "6": {
+                "date": "2024-07-22",
+                "week": "星期一",
+                "day": "33",
+                "night": "31"
+            }
+        },
+        "MaxAT": {
+            "0": {
+                "date": "2024-07-16",
+                "week": "星期二",
+                "day": "40",
+                "night": "36"
+            },
+            "1": {
+                "date": "2024-07-17",
+                "week": "星期三",
+                "day": "41",
+                "night": "37"
+            },
+            "2": {
+                "date": "2024-07-18",
+                "week": "星期四",
+                "day": "40",
+                "night": "37"
+            },
+            "3": {
+                "date": "2024-07-19",
+                "week": "星期五",
+                "day": "39",
+                "night": "37"
+            },
+            "4": {
+                "date": "2024-07-20",
+                "week": "星期六",
+                "day": "39",
+                "night": "34"
+            },
+            "5": {
+                "date": "2024-07-21",
+                "week": "星期日",
+                "day": "38",
+                "night": "35"
+            },
+            "6": {
+                "date": "2024-07-22",
+                "week": "星期一",
+                "day": "39",
+                "night": "36"
+            }
+        },
+        "MinAT": {
+            "0": {
+                "date": "2024-07-16",
+                "week": "星期二",
+                "day": "32",
+                "night": "32"
+            },
+            "1": {
+                "date": "2024-07-17",
+                "week": "星期三",
+                "day": "32",
+                "night": "32"
+            },
+            "2": {
+                "date": "2024-07-18",
+                "week": "星期四",
+                "day": "32",
+                "night": "32"
+            },
+            "3": {
+                "date": "2024-07-19",
+                "week": "星期五",
+                "day": "32",
+                "night": "31"
+            },
+            "4": {
+                "date": "2024-07-20",
+                "week": "星期六",
+                "day": "31",
+                "night": "32"
+            },
+            "5": {
+                "date": "2024-07-21",
+                "week": "星期日",
+                "day": "32",
+                "night": "31"
+            },
+            "6": {
+                "date": "2024-07-22",
+                "week": "星期一",
+                "day": "31",
+                "night": "32"
+            }
+        },
+        "Wx": {
+            "0": {
+                "date": "2024-07-16",
+                "week": "星期二",
+                "day": "晴時多雲",
+                "day_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/day/02.svg",
+                "night": "晴時多雲",
+                "night_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/night/02.svg"
+            },
+            "1": {
+                "date": "2024-07-17",
+                "week": "星期三",
+                "day": "晴時多雲",
+                "day_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/day/02.svg",
+                "night": "晴時多雲",
+                "night_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/night/02.svg"
+            },
+            "2": {
+                "date": "2024-07-18",
+                "week": "星期四",
+                "day": "晴時多雲",
+                "day_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/day/02.svg",
+                "night": "多雲時晴",
+                "night_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/night/03.svg"
+            },
+            "3": {
+                "date": "2024-07-19",
+                "week": "星期五",
+                "day": "晴時多雲",
+                "day_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/day/02.svg",
+                "night": "晴時多雲",
+                "night_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/night/02.svg"
+            },
+            "4": {
+                "date": "2024-07-20",
+                "week": "星期六",
+                "day": "晴時多雲",
+                "day_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/day/02.svg",
+                "night": "晴時多雲",
+                "night_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/night/02.svg"
+            },
+            "5": {
+                "date": "2024-07-21",
+                "week": "星期日",
+                "day": "晴午後短暫雷陣雨",
+                "day_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/day/21.svg",
+                "night": "多雲短暫陣雨",
+                "night_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/night/08.svg"
+            },
+            "6": {
+                "date": "2024-07-22",
+                "week": "星期一",
+                "day": "多雲午後短暫雷陣雨",
+                "day_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/day/22.svg",
+                "night": "多雲",
+                "night_url": "https://www.cwa.gov.tw/V8/assets/img/weather_icons/weathers/svg_icon/night/04.svg"
+            }
+        },
+        "UVI": {
+            "0": {
+                "date": "2024-07-16",
+                "week": "星期二",
+                "uv": "11"
+            },
+            "1": {
+                "date": "2024-07-17",
+                "week": "星期三",
+                "uv": "11"
+            },
+            "2": {
+                "date": "2024-07-18",
+                "week": "星期四",
+                "uv": "10"
+            },
+            "3": {
+                "date": "2024-07-19",
+                "week": "星期五",
+                "uv": "10"
+            },
+            "4": {
+                "date": "2024-07-20",
+                "week": "星期六",
+                "uv": "10"
+            },
+            "5": {
+                "date": "2024-07-21",
+                "week": "星期日",
+                "uv": "10"
+            },
+            "6": {
+                "date": "2024-07-22",
+                "week": "星期一",
+                "uv": "8"
+            }
+        }
+    }
+]

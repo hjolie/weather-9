@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta
-import requests  # 確保使用的是標準的 requests 模組
+import requests  
 import os
 from dotenv import load_dotenv
 import json

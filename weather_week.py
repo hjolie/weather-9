@@ -20,14 +20,13 @@ def getWeekInfo(locationID: str):
         needIndex = [8, 12, 5, 11, 6, 9] # {8:minT,12:maxT,5:maxAt,11:minAt,6:Wx,9:UVI}
         for data in datas:
             if data["locationName"] == locationID:
-                # json.dump(data, files, ensure_ascii=False, indent=4)
-                # print(data)
+                
                 entry = {"city": data["locationName"]}
                 
                 for data in datas:
                     if data["locationName"] == "基隆市":
                         entry = {"city": data["locationName"]}
-                        
+                    
                         for data in datas:
                             if data["locationName"] == "基隆市":
                                 entry = {"city": data["locationName"]}
